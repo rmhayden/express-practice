@@ -29,3 +29,4 @@ function getOne(req, res) {
     res.render('pokemon/show', contextObject)
 
 }
+

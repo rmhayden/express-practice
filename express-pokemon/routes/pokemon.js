@@ -13,4 +13,5 @@ router.get('/', pokemonCtrl.index);
 
 router.get('/:id', pokemonCtrl.getOne);
 
+
 module.exports = router;
